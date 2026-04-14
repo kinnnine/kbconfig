@@ -1,6 +1,6 @@
 # kbconfig
 
-My configuration for Madlions 60HE keyboard for writing and coding.
+My configuration for Madlions MAD 60HE keyboard for writing and coding.
 
 Import `kbconfig.mad-keyboard-config` as a profile in Madlion's web driver.
 
